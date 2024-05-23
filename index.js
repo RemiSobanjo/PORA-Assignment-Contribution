@@ -3,4 +3,5 @@ let sayHello = () => {
     console.log("Elijah Peter says hello");
     console.log("Akoh Peter says hello");
     console.log("Deborah Adeyemi says hello");
+    console.log("Adegoke Michael says hello");
 }
